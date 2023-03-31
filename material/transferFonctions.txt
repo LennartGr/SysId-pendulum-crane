@@ -1,8 +1,0 @@
-Gest_new =
- 
-  From input "u1" to output "y1":
-     -6.831 s^2 - 2.903e05 s + 1.172e06
-  -----------------------------------------
-  s^3 + 4.778e04 s^2 + 9.133e05 s - 2.82e04
- 
-Continuous-time transfer function.
